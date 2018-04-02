@@ -170,7 +170,9 @@
         <div class="pull-right hidden-xs">
           <b>Version</b> 1.0.0
         </div>
-        <strong>Copyright &copy; 2018-2020 <a href="www.victormoncada.tk">VindCompany</a>.</strong> All rights reserved.
+        <strong>Copyright &copy; 2018-2020 <a href = "http://victormoncada.tk/" id = "vind"> VindCompany</a> 
+
+        </strong>All rights reserved.
       </footer>
 
       
